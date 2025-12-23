@@ -12,3 +12,5 @@ The reason this file is provided because many models of Legion / Thinkpad doesn'
 formatted / clean installation is needed...  The availablity of this file is so that you don't have to deal with Lenovo Tech Support and spend useless hours trying to download from pcsupport.lenovo.com by entering serial number just to download this file
 
 The Software version is version 2.64.0
+
+Download it under the "Release" Section inside this github page or do it <a href = "https://github.com/Tanmoy2504/X-Rite-Color-Assistant/releases/tag/Release"> Here </a>
